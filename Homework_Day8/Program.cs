@@ -55,4 +55,6 @@ switch (act)
             Console.WriteLine("Both numbers are equal.");
         }
         break;
+        default: Console.WriteLine("Invalid operation");
+        break;
 }
